@@ -1,0 +1,6 @@
+framework module UnRAR {
+    header "unrar_shim.h"
+    export *
+    link "c++"
+    link "pthread"
+}

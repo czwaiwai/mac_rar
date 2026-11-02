@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+*.DS_Store
+
+# Swift Package Manager build artifacts
+.build/
+.swiftpm/
+*.xcodeproj
+xcuserdata/
+
+# Build / distribution output
+dist/
+*.dmg
+*.zip
+*.tar.gz
+
+# IDE
+.vscode/
+.idea/
+
+# WorkBuddy project state
+.workbuddy/
+
+# Logs
+*.log
